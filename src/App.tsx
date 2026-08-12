@@ -37,7 +37,7 @@ function App() {
       </main>
       <footer className="bg-slate-900 text-slate-400 py-8 mt-16">
         <div className="max-w-6xl mx-auto px-4 text-center">
-          <p className="text-sm">Whitley Writing · 雅思作文自我背诵复习模版大全</p>
+          <p className="text-sm">Writing · 雅思作文自我背诵复习模版大全</p>
           <p className="text-xs mt-2 opacity-60">目标分数 6.5–7.0 · 持续更新中</p>
         </div>
       </footer>

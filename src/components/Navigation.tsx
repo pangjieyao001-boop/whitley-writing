@@ -25,7 +25,7 @@ const Navigation: React.FC<NavigationProps> = ({ activeSection, onNavigate }) =>
             className="flex items-center gap-2 font-bold text-lg text-slate-900"
           >
             <span className="text-2xl">✨</span>
-            <span className="font-serif tracking-tight">Whitley Writing</span>
+            <span className="font-serif tracking-tight">Writing</span>
           </button>
           
           <div className="hidden md:flex items-center gap-1">

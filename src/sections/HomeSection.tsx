@@ -58,7 +58,7 @@ const HomeSection: React.FC<HomeSectionProps> = ({ onNavigate }) => {
               目标分数 Band 6.5–7.0
             </div>
             <h1 className="text-4xl md:text-6xl font-bold font-serif leading-tight mb-6">
-              Whitley Writing
+              Writing
             </h1>
             <p className="text-lg md:text-xl text-blue-100/80 mb-8 leading-relaxed">
               雅思作文自我背诵复习模版大全。从题型模板到高分表达，<br className="hidden md:block" />
